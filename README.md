@@ -11,14 +11,15 @@ Užduotis:
 2. Darbas su projektu
 - sukurti naują failą
 
-- jame sukurti save klasę, kuri paveldi iš klasės "Darboviete"
+- jame sukurti save klasę, kuri paveldi iš klasės "MitineButybe"
 
-- Toje naujoje klasėje perrašyti metodus, kuriuos manom, kad reikia perrašyti (pavyzdžiui, metodą `ka_daro`)
+- Toje naujoje klasėje perrašyti metodus, kuriuos manom, kad reikia perrašyti.
 
 - sukurti klasės objektą
 
-- parašyti kelias eilutes kodo su klasės objektu (pavyzdžiui, pakeisti darbo valandas, kontaktus)
+- parašyti kelias eilutes kodo su klasės objektu
+
+Kodo, kurį glaima rašyti, pavyzdys, yra faile `unicorn.py`
 
 3. įkelti savo darbo rezulttus į github, naudojant git push (irgi parašyti plačiau)
 4. padaryti Pull request į pagrindinę šaką (main)
-
