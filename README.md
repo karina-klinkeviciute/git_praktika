@@ -13,10 +13,13 @@ Užduotis:
 
 1. Repozitorijos klonavimas
 
+
     * klonuoti šią repozitoriją pas save (parašius `git clone git@github.com:karina-klinkeviciute/git_praktika.git`)
     * sukurti naują atšaką (įėjus į parsisiųstą projekto folderį, jame reikia rašyti `git branch atsakos_vardas`), kur vietoje `atsakos vardas` įrašytumėt savo atšakos vardą Svarbu, kad skirtųsi nuo kitų).
 
+
 2. Darbas su projektu
+
 
 Projekte yra failas `mythical.py`. Jame yra klasė MitineButybe. 
 
@@ -37,5 +40,4 @@ Ją reikia sukurti naujame faile tame pačiame kataloge.
 Pull request paprastai daromas pačiame `github` puslapyje. Aprašymas: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request?platform=mac
 
 Glausta informacija apie `git` komandas: https://education.github.com/git-cheat-sheet-education.pdf
-
 
