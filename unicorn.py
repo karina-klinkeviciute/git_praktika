@@ -1,6 +1,5 @@
 from mythical import MitineButybe
 
-
 class Vienaragis(MitineButybe):
 
     def __init__(self, vardas):
