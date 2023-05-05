@@ -1,7 +1,7 @@
 from mythical import MitineButybe
 
 
-class Vienaragis(MitineButybe):
+class Pytonas(MitineButybe):
 
     def __init__(self, vardas):
         super().__init__(vardas)
@@ -15,8 +15,8 @@ class Vienaragis(MitineButybe):
         self.jegos += 20
 
 
-vienaragis1 = Vienaragis("Uni")
-vienaragis2 = Vienaragis("Shiny")
+vienaragis1 = Pytonas("Uni")
+vienaragis2 = Pytonas("Shiny")
 
 vienaragis1.dainuoti()
 vienaragis2.keliauti("Kaunas")
