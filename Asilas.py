@@ -15,12 +15,12 @@ class Asilas(MitineButybe):
         self.jegos += 20
 
 
-vienaragis1 = Asilas("Uni")
-vienaragis2 = Asilas("Shiny")
+asilas1 = Asilas("Uni")
+asilas2 = Asilas("Shiny")
 
-vienaragis1.dainuoti()
-vienaragis2.keliauti("Kaunas")
-vienaragis2.valgyti()
-vienaragis2.valgyti()
-print(vienaragis2.jegos)
-print(vienaragis2.vietove)
+asilas1.dainuoti()
+asilas2.keliauti("Unt Utenų")
+asilas2.valgyti()
+asilas2.valgyti()
+print(asilas2.jegos)
+print(asilas2.vietove)
