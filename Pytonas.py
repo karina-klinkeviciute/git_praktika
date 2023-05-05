@@ -17,10 +17,14 @@ class Pytonas(MitineButybe):
 
 vienaragis1 = Pytonas("Uni")
 vienaragis2 = Pytonas("Shiny")
-
+vienaragis3 = Pytonas("Shiny")
 vienaragis1.dainuoti()
 vienaragis2.keliauti("Kaunas")
 vienaragis2.valgyti()
 vienaragis2.valgyti()
 print(vienaragis2.jegos)
 print(vienaragis2.vietove)
+vienaragis3.dainuoti()
+vienaragis3.keliauti("Vilnius")
+print(vienaragis3.jegos)
+print(vienaragis3.vietove)
