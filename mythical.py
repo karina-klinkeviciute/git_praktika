@@ -10,7 +10,7 @@ class MitineButybe:
         self.jegos -= 10
 
     def dainuoti(self):
-        print("Unt Sartų unt Sartų lakia roges ratu")
+        print("lia lia lia, tra lia lia")
 
     def valgyti(self):
         self.jegos += 10
