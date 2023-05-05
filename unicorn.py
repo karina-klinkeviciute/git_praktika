@@ -1,27 +1,24 @@
 from mythical import MitineButybe
 
 
-class Vienaragis(MitineButybe):
+class slibinas(MitineButybe):
 
     def __init__(self, vardas):
         super().__init__(vardas)
-        self.jegos = 1000
+        self.jegos = "ugnis"
 
     def keliauti(self, vietove):
         self.vietove = vietove
-        self.jegos -= 20
+        self.jegos = "zaibai"
+    def dainuoti(self):
+        print("HARRRR!!!!! HARRRRR!!!!")
 
-    def valgyti(self):
-        self.jegos += 20
 
+slibinas1 = slibinas("zvynas")
+slibinas2 = slibinas("zvynuotas")
 
-vienaragis1 = Vienaragis("Uni")
-vienaragis2 = Vienaragis("Shiny")
+slibinas1.dainuoti()
+slibinas2.keliauti("kalnai ir uolos")
 
-vienaragis1.dainuoti()
-vienaragis2.keliauti("Kaunas")
-vienaragis2.valgyti()
-vienaragis2.valgyti()
-print(vienaragis2.jegos)
-print(vienaragis2.vietove)
-print(vienaragis2.vietove2)
+print(slibinas2.jegos)
+print(slibinas2.vietove)
