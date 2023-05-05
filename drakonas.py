@@ -9,10 +9,10 @@ class Drakonas(MitineButybe):
 
     def keliauti(self, vietove):
         self.vietove = vietove
-        self.jegos -= 20
+        self.jegos -= 200
 
     def valgyti(self):
-        self.jegos += 20
+        self.jegos += 2000
 
 
 Drakonas1 = Drakonas("Unri")
