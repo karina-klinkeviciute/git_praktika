@@ -20,6 +20,7 @@ vienaragis2 = Vienaragis("Shiny")
 
 vienaragis1.dainuoti()
 vienaragis2.keliauti("Kaunas")
+print(vienaragis2.jegos)
 vienaragis2.valgyti()
 vienaragis2.valgyti()
 print(vienaragis2.jegos)
