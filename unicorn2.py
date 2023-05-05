@@ -26,3 +26,4 @@ vienaragis2.valgyti()
 print(vienaragis2.jegos)
 print(vienaragis2.vietove)
 vienaragis2.valgyti()
+sdfsdf
