@@ -15,8 +15,8 @@ class Tinginys(MitineButybe):
         self.jegos += 20000
 
 
-vienaragis1 = Vienaragis("Uni")
-vienaragis2 = Vienaragis("Shiny")
+vienaragis1 = Tinginys("Uni")
+vienaragis2 = Tinginys("Shiny")
 
 vienaragis1.dainuoti()
 vienaragis2.keliauti("Kaunas")
